@@ -1,3 +1,3 @@
-#NTU Deep Learning
+# NTU Deep Learning
 
 HW0: simple python practice
